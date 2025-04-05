@@ -1,8 +1,7 @@
 # Covid-19-ICU-Prediction
 
-# Covid-19-ICU-Prediction-Analysis
+![Uploading image.png…]()
 
-![image](https://github.com/toryschowdhury/Covid-19-ICU-Prediction-Analysis/assets/30194689/f62f97b4-52f8-42f0-a070-6abe449966bb)
 
 # 🧠 COVID-19 ICU Admission Prediction
 
