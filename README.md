@@ -1,6 +1,6 @@
 # Covid-19-ICU-Prediction
 
-![Uploading image.png…]()
+![Screenshot 2025-04-05 021530](https://github.com/user-attachments/assets/d476525b-4ed9-4245-9611-09e35e147728)
 
 
 # 🧠 COVID-19 ICU Admission Prediction
